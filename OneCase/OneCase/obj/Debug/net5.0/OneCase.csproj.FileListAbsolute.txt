@@ -1,0 +1,16 @@
+C:\Users\serge\source\repos\OneCase\OneCase\bin\Debug\net5.0\OneCase.exe
+C:\Users\serge\source\repos\OneCase\OneCase\bin\Debug\net5.0\OneCase.deps.json
+C:\Users\serge\source\repos\OneCase\OneCase\bin\Debug\net5.0\OneCase.runtimeconfig.json
+C:\Users\serge\source\repos\OneCase\OneCase\bin\Debug\net5.0\OneCase.runtimeconfig.dev.json
+C:\Users\serge\source\repos\OneCase\OneCase\bin\Debug\net5.0\OneCase.dll
+C:\Users\serge\source\repos\OneCase\OneCase\bin\Debug\net5.0\ref\OneCase.dll
+C:\Users\serge\source\repos\OneCase\OneCase\bin\Debug\net5.0\OneCase.pdb
+C:\Users\serge\source\repos\OneCase\OneCase\obj\Debug\net5.0\OneCase.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\OneCase\OneCase\obj\Debug\net5.0\OneCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\source\repos\OneCase\OneCase\obj\Debug\net5.0\OneCase.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\OneCase\OneCase\obj\Debug\net5.0\OneCase.AssemblyInfo.cs
+C:\Users\serge\source\repos\OneCase\OneCase\obj\Debug\net5.0\OneCase.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\OneCase\OneCase\obj\Debug\net5.0\OneCase.dll
+C:\Users\serge\source\repos\OneCase\OneCase\obj\Debug\net5.0\ref\OneCase.dll
+C:\Users\serge\source\repos\OneCase\OneCase\obj\Debug\net5.0\OneCase.pdb
+C:\Users\serge\source\repos\OneCase\OneCase\obj\Debug\net5.0\OneCase.genruntimeconfig.cache
